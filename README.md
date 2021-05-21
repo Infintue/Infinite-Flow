@@ -6,9 +6,9 @@ A simple open source text editor that's updated frequently
 "WN" stands for "With Numberline" 
 
 
-*WARNING* 'WN'releases are unstable *WARNING*
+*WARNING* 'WN'releases are unstable
 
-**ANNOUCMENT** NEW LINUX VERSIONS COMING TO YOU IN THE NEXT UPDATE **ANNOUNCMENT**
+**ANNOUCMENT** NEW LINUX VERSIONS COMING TO YOU IN THE NEXT UPDATE
 
 **FAQ:**   
-*Q:*every what does the software get updated? *A:*we update very frequently but the MAX is 1 month
+*Q:*how often does the software get updated? *A:*we update very frequently but the MAXIMUM is 1 month
